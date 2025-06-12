@@ -1,4 +1,4 @@
-# ME331 Final Project – Autonomous and Remote-Controlled Robot
+# ME 331 Final Project – Autonomous and Remote-Controlled Robot
 
 ## 🛠️ Overview
 This project involved designing, building, and programming a multifunctional mobile robot capable of performing three challenge-based tasks using both autonomous and remote-controlled operation.
