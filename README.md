@@ -13,7 +13,7 @@ This project involved designing, building, and programming a multifunctional mob
 | Motor Driver Board| Provided            | ULN2003                       |
 | Chassis Base      | Custom Fabricated   | Acrylic w/ hot glue + screws  |
 | Wheels (x2)       | Provided            | Attached to TT motors         |
-| Optional IR Module| Optional            | Used for remote control input |
+| IR Module         | Provided            | Used for remote control input |
 
 ## ⚙️ Challenge Tasks
 
